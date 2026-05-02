@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Temporary files
+*.log
+*.tmp
+
+# OS files (macOS)
+.DS_Store
+
+# Upload / temp images 
+temp_*.jpg
+
+# Cache
+.cache/
+
+# VSCode (optional)
+.vscode/
+
+# Environment variables
+.env
+
+# Node (kalau satu repo sama frontend)
+node_modules/
+dist/
