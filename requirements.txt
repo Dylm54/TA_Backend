@@ -1,8 +1,6 @@
 fastapi
 uvicorn
 ultralytics
-torch
-torchvision
 opencv-python-headless
+torch
 python-multipart
-psutil
